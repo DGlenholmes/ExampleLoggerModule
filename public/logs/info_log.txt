@@ -1,0 +1,1 @@
+[{"type":"INFO","message":"This is an Info Log message for testing","ipAddress":"127.0.0.1","timestamp":"2019-08-25 01:44:08"}]
